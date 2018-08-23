@@ -68,11 +68,11 @@ def monopoly_with_third_tier
 	      {
 	   #     "mortgage_value" => "$400"
 	      },
-	   #   :shortline =>
-	   #   {
+	      :shortline =>
+	      {
 	   #     "mortgage_value" => "$800"
-	   #   }
-	      },
+	      }
+      },
 	    :rent_in_dollars =>
 	      {
 	        :one_piece_owned => 25,
